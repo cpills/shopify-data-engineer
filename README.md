@@ -1,10 +1,16 @@
-# Getting Started with Create React App
+# Shopify Data Engineer Intern Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Requirements
 
-In the project directory, you can run:
+I'm using npm 7.7.6 and node v15.14.0
+
+## Installation
+
+First clone the repo: `git clone https://github.com/cpills/shopify-data-engineer`
+
+Then run `npm install` to install the dependencies
 
 ### `npm start`
 
